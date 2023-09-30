@@ -4,3 +4,6 @@ git push -u origin branchname
 git push -u origin branchname1 branchname 2
 git push -u origin --all(to push into all branches)
 git remote -v
+
+
+git status
